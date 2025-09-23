@@ -1,0 +1,12 @@
+/* style.css */
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.hero {
+  background: linear-gradient(to right, #007bff, #6610f2);
+  color: white;
+  height: 100vh;
+  padding-top: 100px;
+}
